@@ -66,5 +66,3 @@ This project implements a tree structure with various traversal methods and incl
    - **Description**: A font file used in the SFML visualization to display text.
 
 ---
-
-This README should cover all the files in your project and provide clear instructions on how to build and run the project.
