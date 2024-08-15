@@ -1,7 +1,4 @@
-Here's a detailed README for your project:
-
 ---
-
 # Tree Visualization Project
 
 ## Overview
